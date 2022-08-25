@@ -1,6 +1,3 @@
-# AsociacionContactosOdoo
-Algoritmo que dado un excel con contactos los asocia a la empresa a la que pertenece para crear la jerarquía en Odoo.
-
 Modo de Uso:
 Para usar este Script se deberá tener, en la misma carpeta, un excel llamado ContactoYCompany.xlsx
 que contenga en la primera hoja los IDs de los nombres de los Contactos y su compañía asociada,
